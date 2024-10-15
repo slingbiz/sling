@@ -85,15 +85,15 @@ If you prefer to host Sling Studio on your local machine, Sling consists of thre
 
 Sling is structured across three separate repositories, each serving a key function:
 
-1. **[Sling API](https://github.com/yourusername/sling-api)**:
+1. **[Sling API](https://github.com/slingbiz/sling-api)**:
    - Handles backend logic, including database connections and API endpoints.
    - Built on Node.js and MongoDB for scalable backend services.
 
-2. **[Sling Frontend (sling-fe)](https://github.com/yourusername/sling-fe)**:
+2. **[Sling Frontend (sling-fe)](https://github.com/slingbiz/sling-fe)**:
    - The frontend where all the pages, routing, and widget rendering take place.
    - Built with Next.js, allowing developers to customize their pages and integrate widgets dynamically.
 
-3. **[Sling Studio](https://github.com/yourusername/sling-studio)**:
+3. **[Sling Studio](https://github.com/slingbiz/sling-studio)**:
    - Admin interface where users can create, edit, and manage content visually.
    - Allows for real-time page editing with drag-and-drop capabilities for widgets and templates.
 
