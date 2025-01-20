@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sling: An Open Source alternative to Builder.io and AI driven CMS for marketing teams</h1>
+  <h1>Sling: An Open Source alternative to Builder.io. And an AI driven CMS for marketing teams.</h1>
 </div>
 
 <div align="center">
