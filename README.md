@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sling: An Open Source alternative to Builder.io. And an AI driven CMS for marketing teams.</h1>
+  <h1>Sling: The Open Source, Governed AI CMS</h1>
 </div>
 
 <div align="center">
@@ -12,13 +12,15 @@
   </strong>
 </p>
 
-Sling is an open-source drag-and-drop frontend CMS built on Next.js. Completely customizable with Pages, Templates & Widgets written in React. Sling offers an alternative to Builder.io, designed for developers who want full control over their components and frontend experience.
+Sling is an open-source, enterprise-ready CMS built on Next.js and React. Generate pages and components with AI, without giving up control: every AI-generated widget runs in a sandboxed preview, passes a static governance check before it can be saved, and goes through a review workflow before it ever goes live. Full ownership of your components and frontend, backed by an audit trail for what AI built and who approved it.
 
 ## ✨ Features :fire:
 
+- **AI-Generated, Governed Widgets**: Describe a component and Sling generates it — every generation runs in a sandboxed preview and is checked against a static governance policy before it can be saved or published.
+- **Review & Publish Workflow**: AI-generated widgets move through draft → pending review → approved → published, with an audit trail of who approved what.
 - **React & Node.js**: Built entirely with React on the frontend and Node.js on the backend.
 - **Complete Control**: Manage React components and their props directly from Sling Studio.
-- **Custom Widgets**: Create and modify custom widgets within your page templates.
+- **Custom Widgets**: Create and modify custom widgets within your page templates, by hand or with AI.
 - **Modular Architecture**: Sling consists of three main repositories:
   - **Sling API**: The backend API managing all data handling and communication.
   - **Sling FE**: The frontend, handling page rendering and routing.
